@@ -11,7 +11,7 @@
 ## 目錄 Table of Contents
 
 - [Chapter 1: Introduction](01%20明義第一.md)
-- [變數第二](02%20變數第二.md)
+- [Chapter 2: Variables](02%20變數第二.md)
 - [算術第三](03%20算術第三.md)
 - [決策第四](04%20決策第四.md)
 - [循環第五](05%20循環第五.md)
